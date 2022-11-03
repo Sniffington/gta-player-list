@@ -1,6 +1,6 @@
 You need to use something that you can execute C++ scripts with on GTA, 0xCheats is what I use for it, or you can find out how to put it into your own ImGUI project (you would unlock more customisation).
 
-Preview of lobby menu: https://vimeo.com/767073979
+Preview of lobby menu: https://vimeo.com/767073979 (SHORT)
 
 MonkeyCity.cpp allows you to spawn a bunch of global monkeys. 
 
