@@ -1,4 +1,4 @@
-You need to use something that you can execute C++ scripts with on GTA, 0xCheats is what I use for it.
+You need to use something that you can execute C++ scripts with on GTA, 0xCheats is what I use for it, or you can find out how to put it into your own ImGUI project (you would unlock more customisation).
 
 Preview of lobby menu: https://vimeo.com/767073979
 
